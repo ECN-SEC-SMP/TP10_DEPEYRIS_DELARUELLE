@@ -3,7 +3,7 @@ class Calculator
 {
 public:
 	/// <summary>
-	/// Calcul le produit des nombres entiers strictement positifs inférieurs ou égaux à l'entier a
+	/// Calcul le produit des nombres entiers strictement positifs infï¿½rieurs ou ï¿½gaux ï¿½ l'entier a
 	/// </summary>
 	/// <param name="a"></param>
 	/// <returns></returns>

@@ -1,3 +1,6 @@
 codeTp1/factorielle.o
 codeTp1/mytest.o
 codeTp1/mytest.out
+*.o
+*.out
+main
